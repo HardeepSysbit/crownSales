@@ -2,3 +2,8 @@
   font-family: 'Opens Sans Condensed';
   
 }
+
+a {
+  text-decoration: none;
+  color: black ;
+}
